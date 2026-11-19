@@ -53,3 +53,5 @@ Setup in the Supabase project:
 2. Deploy the function `water-alert` with JWT verification turned off (the device key is checked instead).
 
 Tests run with Node from `supabase/functions` in Dorm-care: `node --test test/*.test.js`.
+
+โค้ดฉบับล่าสุดของ water-alert, water-status และแท็บน้ำในแอปอยู่ที่ https://github.com/Toey2706/Dorm-care
